@@ -1,0 +1,49 @@
+
+@media only  screen and (min-width:200px) and (max-width:575px)
+{
+    *
+    {
+        text-align: center;
+    }
+    .btn-outer{
+        position:fixed;
+        bottom: 0px;
+        left:5rem;
+        margin-bottom:1rem;
+        justify-content: center !important;
+        
+    }
+    .btn-1,.btn-2
+    {
+        padding:20px;
+    }
+    .sec1 h1{
+        font-size:1.25rem;
+    }
+    .bms button p,.exp button p
+    {
+        width:60px;
+        height:5px;
+        
+    }
+    .bms p,.exp p
+    {
+        font-size:7px;
+    }
+    .fromk
+    {
+        position:relative;
+        top:7rem;
+        left:0rem;
+        width:300px;
+        height: 500px;
+        font-size: 10px;
+    }
+}
+@media(min-width:1400px)
+{
+    .container,.container-lg,.container-sm,.container-md,.container-xl,.container-xxl
+    {
+        max-width:1170px;
+    }
+}

@@ -1,0 +1,205 @@
+*
+{
+    padding:0px;
+    margin:0px;
+    font-family: "Inter", serif;
+}
+.logo{
+
+    width:100px;
+    height:auto;
+}
+.btn-1,.btn-2
+{
+    border-radius:20%;
+}
+.sec1 h1 span{
+    color:rgb(89, 146, 216);
+   
+}
+.sec1 h1{
+    font-weight: 500px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.sec1 p
+{
+    font-size: 1.10rem;
+}
+.rat button{
+    border: none;
+    background:transparent;
+}
+.rat img
+{
+    width:60px;
+    box-shadow:5rem;
+}
+.rat b
+{
+    padding:20px;
+}
+.contact 
+{
+    width:80px;
+    height: 80px;
+    background: transparent;
+    border:none;
+  
+}
+.contact img{
+    width:50px;
+    
+
+}
+.contact p
+{
+    font-size: 12px;
+}
+#lakh p
+{
+    font-size: 18px;
+}
+.bms button,.exp button
+{
+    border-radius: 10px;
+    border-bottom: 6px solid black;
+    background: linear-gradient(to right, #4facfe, #5257e1);
+
+}
+.bms p{
+    font-size: 1rem;
+    width:15vw;
+}
+.bms button:hover,.exp button:hover
+{
+    border-radius: 10px;
+    border:none;
+    background: linear-gradient(to right, #4ffe60, #73f8aa);
+}
+.fromk
+{
+    width:500px;
+    position:relative;
+    left:760px;
+    bottom:300px;
+
+}
+.rgn
+{
+    border-radius: 30px;
+    width:100%;
+    background: linear-gradient(to right, #4facfe, #5257e1);
+    transition: background 0.3s ease-in-out;
+
+}
+.rgn:hover{
+
+    background: linear-gradient(to right, #4ffe60, #73f8aa);
+
+}
+.rgnd
+{
+    display: flex;
+    justify-content: center;
+}
+.courses button
+{
+    
+    border-radius: 20px;
+
+}
+.courses button h5
+{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.courses button:hover
+{
+    background: linear-gradient(to right, #4facfe, #5257e1);
+    border: 2px solid black;
+    color:white;
+}
+.courserow
+{
+    border:1px solid black;
+    border-bottom:7px solid black;
+    border-right:5px solid black;
+    border-radius: 20px;
+}
+.coursedata p{
+    font-size: 13px;
+    margin-top:30px;
+}
+.coursedata button{
+    border-radius: 50px;
+    width:75%;
+}
+.coursedata button:hover,.lc:hover,.dc:hover
+{
+    border-bottom:2px solid black;
+    border-right:2px solid black;
+}
+.dc:hover
+{
+    border-bottom:2px solid black;
+    border-right:2px solid black;
+}
+.lc:hover
+{
+    border-bottom:2px solid black;
+    border-right:2px solid black;
+}
+.dc 
+{
+    background-color: #5257e1;
+    color:white;
+}
+.ratingimg
+{
+    width:200px;
+    height:200px;
+    border:none;
+}
+.cimg img
+{
+    height:500px;
+}
+.coursedata h5,.coursedata h7{
+    color: gray;
+}
+.weeks1 h5,.weeks2 h5
+{
+    color: black;
+}
+.footer
+{
+    color:white;
+}
+.bg-color-b
+{
+    background: linear-gradient(to right ,#010817, #090e91);
+}
+.foot img
+{
+    max-width:100px;
+}
+.foot p{
+    color:white;
+}
+.icon
+{
+    width:50px;
+    height:50px;
+    border:2px solid white;
+    border-radius: 50%;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+}
+li
+{
+    text-decoration: none;  
+}
